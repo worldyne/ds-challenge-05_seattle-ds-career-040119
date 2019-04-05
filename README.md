@@ -1,4 +1,4 @@
-# ds_challenge_05-seattle-ds-career-040119
+# ds-challenge-05_seattle-ds-career-040119
 
 ## Plotting Attendance
 
